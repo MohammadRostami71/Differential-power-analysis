@@ -9,4 +9,3 @@ The following items have been considered:<br>
 1. Run the DPA algorithm and find the key of the encryption algorithm.<br>
 2. Show the normality of frequency distribution diagrams of groups one and two.<br>
 3. Investigate the dependence of data on different Hamming distances and its effect on power distribution at each point in the trace.<br><hr>
-<h3>The input files are located in DPA_Attack.rar.</h3>
