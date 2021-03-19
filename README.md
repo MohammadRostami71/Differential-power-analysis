@@ -1,6 +1,6 @@
 # Differential-power-analysis
 <hr>
-<b>This project is related to the course of hardware security and secure hardware design at Shahid Beheshti University.</b>
+<h2>This project is related to the course of hardware security and secure hardware design at Shahid Beheshti University.</h2><br>
 The purpose of this project is to analyze power consumption using statistical methods.<br><hr>
 The following files are given as input:<br>
 1. The traces.mat file contains the power extracted from the execution of the AES algorithm.<br>
@@ -8,4 +8,5 @@ The following files are given as input:<br>
 The following items have been considered:<br>
 1. Run the DPA algorithm and find the key of the encryption algorithm.<br>
 2. Show the normality of frequency distribution diagrams of groups one and two.<br>
-3. Investigate the dependence of data on different Hamming distances and its effect on power distribution at each point in the trace.<br>
+3. Investigate the dependence of data on different Hamming distances and its effect on power distribution at each point in the trace.<br><hr>
+<h3>The input files are located in DPA_Attack.rar.</h3>
